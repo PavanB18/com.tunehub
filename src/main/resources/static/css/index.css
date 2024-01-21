@@ -1,0 +1,38 @@
+body{
+	background: linear-gradient(to right,yellow,red);
+}
+h1{
+	font-size:50px;
+	color:white;
+	text-align: center;
+	text-shadow:0 0 10px black;
+}
+label{
+	color: black;
+	font-size: 15px;
+	
+}
+div{
+	display:flex;
+	flex-direction:column;
+	justify-content: center;
+	align-items: center;
+	height: 77vh;
+	
+	
+}
+button{
+	background-color: transparent;
+	border: 1px solid white;
+	padding: 5px;
+	border-radius: 6px;
+	font-size: 20px;
+	color: white;
+	font-family: inherit;
+	cursor: pointer;
+}
+button:hover{
+	color: black;
+	background-color: white;
+	
+}

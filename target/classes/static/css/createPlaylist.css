@@ -1,0 +1,38 @@
+
+
+body {
+    background: linear-gradient(to right, yellow, red);
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    text-shadow: 0 0 10px black;
+}
+
+label {
+   color: white;
+    font-size: 15px;
+     text-shadow: 0 0 10px black;
+    text-align: center;
+}
+
+
+
+input {
+    margin: 5px;
+    padding: 8px;
+    border: 1px solid white;
+    border-radius: 6px;
+    font-size: 16px;
+    color: white;
+    font-family: inherit;
+    background-color: transparent;
+    text-align: center;
+    
+}
+
+
+
+/* Add more styles if needed */
